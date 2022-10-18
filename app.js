@@ -60,9 +60,3 @@ app.post("/", function(req, res) {
 app.listen(process.env.PORT || 3000, function() {
   console.log("Server is running on Port: 3000");
 });
-
-
-// 116c6e1868
-// 9458f86fbb15b031d023c7a2c7bebc87-us11
-// vaguliyev@gmail.com
-// Quliyev123#
